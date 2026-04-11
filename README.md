@@ -23,4 +23,7 @@ To design and understand UART communication by building TX and RX modules from s
 
 ## 🚧 Status
 🚀 Project Started — Development in Progress
-Day 1.Initialized project + studied UART basics
+Day 1. Initialized project + studied UART basics
+Day 2. Implemented UART TX module with FSM (IDLE, START, DATA, STOP).
+        Handled serial data transmission and framing logic.
+     
