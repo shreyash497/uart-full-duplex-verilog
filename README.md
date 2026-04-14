@@ -28,5 +28,5 @@ Day 2. Implemented UART TX module with FSM (IDLE, START, DATA, STOP).
         Handled serial data transmission and framing logic.
 Day 3: Implemented baud rate generator for UART TX.
 Day 4: Integrated it with FSM for proper bit timing.
-        Started simulation to verify serial output.
+Day 5:   Started simulation to verify serial output.
      
