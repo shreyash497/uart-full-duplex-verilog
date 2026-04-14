@@ -19,7 +19,7 @@ To design and understand UART communication by building TX and RX modules from s
 ## ⚙️ Tools (Planned)
 - Verilog HDL
 - ModelSim
-- Vivado / Quartus
+- Vivado 
 
 ## 🚧 Status
 🚀 Project Started — Development in Progress
